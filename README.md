@@ -9,6 +9,9 @@
 
 ลิงก์อ้างอิงแบรนด์/เพจ (ใช้เป็นข้อมูลประกอบ UI/Brand เท่านั้น ห้ามดึงข้อมูลส่วนตัว):
 - https://facebook.com/tuuuum
+- 
+พิกัดตำแหน่งปลายทาง Url
+- https://akom.thai-dev.online/
 
 เป้าหมายระบบ:
 1) ใช้งานได้จริงในร้าน (Desktop/Tablet/Mobile)
